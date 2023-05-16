@@ -1,20 +1,10 @@
 # MuhammadBinNaeem
 
-<p align="center">
- <a href="https://NaumanShakir.com" target="_blank">
-  <img width="240" src="logo.png" />  
-  </a>
-  <h2 align="center">Nauman Shakir</h2>
-  
-  <p align="center">Full-Stack IoT Solution Architect</p>
-  
-</p>
+Hi there 👋, I'm <b>Muhammad Bin Naeem</b>, a passionate 🚀 Technical Content Writer. I thrive on crafting innovative and easy to grasp documentation that help shape the world we live in. Join me as we explore the cutting edge of technology together 🚀!
 
-Hi there 👋, I'm <a href="https://naumanshakir.com/" target="_blank"><b>Nauman Shakir</b></a>, a passionate 🚀 Full-Stack IoT Solution Architect and Blockchain aficionado. I thrive on crafting innovative end-to-end IoT solutions that help shape the world we live in. Join me as we explore the cutting edge of technology together 🚀!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hikkigaya&label=Profile%20views&color=0e75b6&style=flat" alt="Hikkigaya" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nauman3s&label=Profile%20views&color=0e75b6&style=flat" alt="nauman3s" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nauman3s&theme=onedark&row=3&column=4&margin-w=12&margin-h=10" alt="nauman3s" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hikkigaya&theme=onedark&row=3&column=4&margin-w=12&margin-h=10" alt="Hikkigaya" /></a> </p>
 
 ## Languages and Tools
 
