@@ -27,7 +27,7 @@ Hi there 👋, I'm <b>Muhammad Bin Naeem</b>, a passionate 🚀 Technical Conten
 </p>
 
 ## Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hikkigayas&show_icons=true&locale=en&layout=compact&count_private=true&theme=radical&langs_count=10" alt="Hikkigaya" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hikkigaya&show_icons=true&locale=en&layout=compact&count_private=true&theme=radical&langs_count=10" alt="Hikkigaya" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hikkigaya&show_icons=true&locale=en&count_private=true&theme=radical" alt="Hikkigaya" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hikkigaya&theme=radical" alt="Hikkigaya" /></p>
 
