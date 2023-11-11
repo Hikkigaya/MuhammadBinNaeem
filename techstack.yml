@@ -1,0 +1,18 @@
+repo_name: Hikkigaya/Hikkigaya
+report_id: 054c0d21da42063880939a4914ff5c6d
+repo_type: Public
+timestamp: '2023-11-11T13:19:16+00:00'
+requested_by: Hikkigaya
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
